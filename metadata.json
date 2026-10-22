@@ -1,0 +1,6 @@
+{
+  "name": "Campus Multi-Agents 3D",
+  "description": "Prototype interactif 3D d'un monde virtuel de travail multi-agents en vue isométrique.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
